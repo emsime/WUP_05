@@ -78,3 +78,5 @@ since our p values for all of our data are low significant figures we can conclu
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+As we worked through this categorical data. we compared two differenct categories of if you did get aids or not depending on the results based off of if you took the drug or placebo. From there we were able to see from the data that the drug was ineffective since the numbers were not significant in stoping the effect of aids, if anything the drug had a higher chance of increasing the chance of getting aids. We were able to examine ouor P value wher we conclude from the low values that we could throw out our null hypothesis which supported our suspicion that the drug was ineffective.
